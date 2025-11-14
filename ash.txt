@@ -1,0 +1,5 @@
+hoy cree mi primer repositorio remoto, donde primero clone el archivo en mi repositorio local con el comando clone, copie la URL del repositorio remoto, luego abri git bash para posteriormente adicionar con el comando Git add la URL, luego de esto agregue 4 archivos diferentes para luego subirlos con git add y luego ver el estado con git status, seguido de esto use git push para subir la información al repositorio remoto desde mi local y se actualicen los cambios en el remoto. 
+
+Ademas volvi a clonar el mismo archivo con los mismos comandos para luego desde mi local eliminar 3 archivos luego abri git bash para ver el estado de mi archivo utilizando git status y asi actualizar la información, luego de esto utilice git push para enviar la información, luego actualice con f5 en mi repositorio local 
+
+seguido de esto use git pull para traer nuevamente las actualizaciones a mi primer archivo en mi repositorio local 
